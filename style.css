@@ -53,3 +53,9 @@ form input[type="submit"]{
     /* font-weight: bold; */
     letter-spacing: 1px;
 }
+/*Mobile responsive  */
+@media only screen and (max-width: 500px) {
+form{
+    width:20rem;
+    height:25rem;
+}
